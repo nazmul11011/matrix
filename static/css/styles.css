@@ -1506,7 +1506,6 @@ button:hover {
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     width: 95%;
-    max-width: 1100px;
     box-sizing: border-box;
     text-align: center;
     margin: 24px auto;
@@ -2078,7 +2077,6 @@ details[open] .route-body {
 .table-responsive {
     position: relative;
     max-width: 100%;
-    max-height: 70vh;
     overflow: auto;
     margin-top: 24px;
     border: 1px solid #d9e8e0;
